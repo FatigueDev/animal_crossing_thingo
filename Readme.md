@@ -1,5 +1,7 @@
 # Embrace your inner idiot
 
+What this does is basically act as a keylogger, but without being a keylogger; it just listens to your event inputs and plays animal crossing noises like that web app someone linked to me. The difference between that and this though is that this is held together with duct tape and out of date libs on .NET Core.
+
 ## Run the executable via the commandline with the following args:
 
 For a random male voice:
@@ -19,3 +21,4 @@ Instantly returns out of the console when it gets a bad argument; can't be arsed
 No config.
 
 No escape.
+
